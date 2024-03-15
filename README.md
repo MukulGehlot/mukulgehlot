@@ -16,8 +16,8 @@ Business Intelligence Analyst with ~2 years of experience in data analysis, busi
 * **Management Tool**: Jira, Confluence
 
 ### 👨‍💻 Projects
-* [Project Portfolio](https://ritusantra525.wixsite.com/portfolio)
-* [Power BI Dashboards](https://www.novypro.com/profile_projects/ritu-santra)
+* [Project Portfolio]
+* [Power BI Dashboards]
   
 ### 🔗 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/mukul-gehlot/)
