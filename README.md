@@ -18,10 +18,11 @@ Business Intelligence Analyst with ~2 years of experience in data analysis, busi
 ### 👨‍💻 Projects
 * [Project Portfolio]
 * [Power BI Dashboards]
-  
-### 🔗 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/mukul-gehlot/)
 
+<h3 align="left">🔗 Connect with Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mukul-gehlot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-gehlot" height="30" width="40" /></a>
+</p>
 
 <!--
 **MukulGehlot/mukulgehlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
