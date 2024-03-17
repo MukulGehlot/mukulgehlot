@@ -2,7 +2,7 @@
 
 Business Intelligence Analyst with ~2 years of experience in data analysis, business analysis, process improvement, and implementing solutions to business problems. Demonstrates expertise in analytical and data visualization tools, enabling effective data analysis, visualization, and statistical analysis.
 
-- 🌱 I’m currently learning new skills for Data Engineering and looking to grow towards Cloud Computing
+🌱 I’m currently learning new skills for Data Engineering and looking to grow towards Cloud Computing 🌱
 
 ### 🚀 Key Competencies
 * **Data Analysis & Visualization** 📊: Proficient in cleaning, manipulating, and analyzing complex data to extract valuable insights that inform data-driven decision-making. Skilled in creating compelling visualizations using tools like Power BI and Excel, transforming data into accessible narratives for diverse audiences.
