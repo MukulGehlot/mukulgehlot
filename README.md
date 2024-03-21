@@ -19,9 +19,11 @@ Business Intelligence Analyst with ~2 years of experience in data analysis, busi
 *  **Python and Python libraries** <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="mukul-gehlot" height="30" width="" /></a>: Numpy <a href="https://numpy.org/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" alt="mukul-gehlot" height="20" width="" /></a>, Pandas <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="mukul-gehlot" height="30" width="25" /></a>, Matplotlib <a href="https://matplotlib.org/" target="blank"><img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="mukul-gehlot" height="20" width="" /></a>, Seaborn <a href="https://seaborn.pydata.org/" target="blank"><img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="mukul-gehlot" height="20" width="" /></a>
 * **Management Tool**: Jira <a href="https://www.atlassian.com/software/jira" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="mukul-gehlot" height="20" width="" /></a>, Confluence <a href="https://www.atlassian.com/software/confluence" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-confluence-3628704-3029929.png?f=webp" alt="mukul-gehlot" height="20" width="" /></a>
 
-### 👨‍💻 Projects
-* [Project Portfolio]
-* [Power BI Dashboards]
+### 👨‍💻 Projects Portfolio
+* [SQL](https://github.com/MukulGehlot/SQL-Projects)
+* [Power BI Dashboards](https://github.com/MukulGehlot/Power-BI-Projects)
+* [Excel](https://github.com/MukulGehlot/Excel-Projects)
+* [Python](https://github.com/MukulGehlot/python-projects)
 
 <h3 align="left">🔗 Connect with Me</h3>
 <ul>
