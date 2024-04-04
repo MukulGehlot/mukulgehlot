@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mukul
 ### 🙋‍♂️ About
 
-Business Intelligence Analyst with 2 years of experience in data analysis, business analysis, process improvement, and implementing solutions to business problems. Demonstrates expertise in analytical and data visualization tools, enabling effective data analysis, visualization, and statistical analysis.
+Data Analyst with 2 years of experience in data analysis, business analysis, process improvement, and implementing solutions to business problems. Demonstrates expertise in analytical and data visualization tools, enabling effective data analysis, visualization, and statistical analysis.
 
 🌱 I’m currently learning
   - Microsoft Azure
